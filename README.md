@@ -1,2 +1,5 @@
-# AI-introductio
-A comprehensive introduction to AI applied to financial markets, 1) how does the machine learn, 2), from learning to Gen AI
+# AI-introduction
+A comprehensive introduction to AI
+1. How does the machine learn? Learning process and challenges
+2. ML paradigms - Illustration of the three learning types with applied examples on financial markets
+3. From learning to deep learning to Gen AI
